@@ -1,0 +1,539 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project game\\My project (7)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9F1080-9A84-857A-4D89-56845DFEA68A}|Assembly-CSharp.csproj|d:\\project game\\my project (7)\\assets\\sunnyland artwork\\scripts\\enemy\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9F1080-9A84-857A-4D89-56845DFEA68A}|Assembly-CSharp.csproj|solutionrelative:assets\\sunnyland artwork\\scripts\\enemy\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project game\\My project (7)\\Assets\\Scripts\\player\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\player\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9F1080-9A84-857A-4D89-56845DFEA68A}|Assembly-CSharp.csproj|D:\\Project game\\My project (7)\\assets\\sunnyland artwork\\scripts\\gamemanager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9F1080-9A84-857A-4D89-56845DFEA68A}|Assembly-CSharp.csproj|solutionrelative:assets\\sunnyland artwork\\scripts\\gamemanager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project game\\My project (7)\\Assets\\Scripts\\background\\Background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\background\\Background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project game\\My project (7)\\Assets\\Scripts\\Camera\\MiniCamfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Camera\\MiniCamfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9F1080-9A84-857A-4D89-56845DFEA68A}|Assembly-CSharp.csproj|D:\\Project game\\My project (7)\\assets\\sunnyland artwork\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9F1080-9A84-857A-4D89-56845DFEA68A}|Assembly-CSharp.csproj|solutionrelative:assets\\sunnyland artwork\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project game\\My project (7)\\Assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9F1080-9A84-857A-4D89-56845DFEA68A}|Assembly-CSharp.csproj|D:\\Project game\\My project (7)\\assets\\sunnyland artwork\\scripts\\loadinggame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9F1080-9A84-857A-4D89-56845DFEA68A}|Assembly-CSharp.csproj|solutionrelative:assets\\sunnyland artwork\\scripts\\loadinggame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project game\\My project (7)\\Assets\\audiomanager1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\audiomanager1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project game\\My project (7)\\Assets\\Scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project game\\My project (7)\\Assets\\Scripts\\Camera\\CameraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Camera\\CameraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project game\\My project (7)\\Assets\\Scripts\\GameManager\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameManager\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project game\\My project (7)\\Assets\\Scripts\\enemy\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\enemy\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project game\\My project (7)\\Assets\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6771E57C-8715-90DB-EAAB-EC3066001038}|FMODUnity.csproj|D:\\Project game\\My project (7)\\assets\\plugins\\fmod\\src\\runtimeutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6771E57C-8715-90DB-EAAB-EC3066001038}|FMODUnity.csproj|solutionrelative:assets\\plugins\\fmod\\src\\runtimeutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project game\\My project (7)\\Assets\\GameData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\GameData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project game\\My project (7)\\Assets\\Scripts\\enemy\\dino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\enemy\\dino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project game\\My project (7)\\Assets\\Scripts\\audio\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\audio\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project game\\My project (7)\\Assets\\Scripts\\Camera\\MiniCamControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Camera\\MiniCamControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project game\\My project (7)\\Assets\\Scripts\\background\\background1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\background\\background1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project game\\My project (7)\\Assets\\Joystick Pack\\Scripts\\Joysticks\\FixedJoystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Joystick Pack\\Scripts\\Joysticks\\FixedJoystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project game\\My project (7)\\Assets\\Scripts\\Diamond\\Diamond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Diamond\\Diamond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project game\\My project (7)\\Assets\\sc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\sc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project game\\My project (7)\\Assets\\heart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\heart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project game\\My project (7)\\Assets\\Scripts\\cherry\\cherry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\cherry\\cherry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project game\\My project (7)\\Assets\\Scripts\\enemy\\frog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\enemy\\frog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project game\\My project (7)\\Assets\\Scripts\\enemy\\opsum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\enemy\\opsum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project game\\My project (7)\\Assets\\Scripts\\enemy\\slimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\enemy\\slimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project game\\My project (7)\\Assets\\Scripts\\GameData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project game\\My project (7)\\Assets\\Scripts\\enemy\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\enemy\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project game\\My project (7)\\Assets\\Scripts\\enemy\\batenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\enemy\\batenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project game\\My project (7)\\Assets\\Scripts\\HealthBarbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HealthBarbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project game\\My project (7)\\Assets\\fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\Scripts\\player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\player\\Player.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\Scripts\\player\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\player\\Player.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T22:54:40.335Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "boss.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\SunnyLand Artwork\\Scripts\\enemy\\boss.cs",
+              "RelativeDocumentMoniker": "Assets\\SunnyLand Artwork\\Scripts\\enemy\\boss.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\SunnyLand Artwork\\Scripts\\enemy\\boss.cs",
+              "RelativeToolTip": "Assets\\SunnyLand Artwork\\Scripts\\enemy\\boss.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAA/wGMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:51:12.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\SunnyLand Artwork\\Scripts\\GameManager\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\SunnyLand Artwork\\Scripts\\GameManager\\GameManager.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\SunnyLand Artwork\\Scripts\\GameManager\\GameManager.cs",
+              "RelativeToolTip": "Assets\\SunnyLand Artwork\\Scripts\\GameManager\\GameManager.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAUwBIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T02:48:03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MiniCamfollow.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\Scripts\\Camera\\MiniCamfollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\MiniCamfollow.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\Scripts\\Camera\\MiniCamfollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\MiniCamfollow.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T15:21:43.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Background.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\Scripts\\background\\Background.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\background\\Background.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\Scripts\\background\\Background.cs",
+              "RelativeToolTip": "Assets\\Scripts\\background\\Background.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T01:34:35.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dino.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\Scripts\\enemy\\dino.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\enemy\\dino.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\Scripts\\enemy\\dino.cs",
+              "RelativeToolTip": "Assets\\Scripts\\enemy\\dino.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:26:01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\Scripts\\audio\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\audio\\AudioManager.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\Scripts\\audio\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\audio\\AudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T07:03:18.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\Scripts\\Camera\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\CameraController.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\Scripts\\Camera\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\CameraController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:30:58.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "audiomanager1.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\audiomanager1.cs",
+              "RelativeDocumentMoniker": "Assets\\audiomanager1.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\audiomanager1.cs",
+              "RelativeToolTip": "Assets\\audiomanager1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:58:08.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bullet.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\bullet.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\bullet.cs",
+              "RelativeToolTip": "Assets\\bullet.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:24:56.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "playercontroller.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\SunnyLand Artwork\\Scripts\\player\\playercontroller.cs",
+              "RelativeDocumentMoniker": "Assets\\SunnyLand Artwork\\Scripts\\player\\playercontroller.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\SunnyLand Artwork\\Scripts\\player\\playercontroller.cs",
+              "RelativeToolTip": "Assets\\SunnyLand Artwork\\Scripts\\player\\playercontroller.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwFQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T04:26:04.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoadingGame.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\SunnyLand Artwork\\Scripts\\LoadingGame.cs",
+              "RelativeDocumentMoniker": "Assets\\SunnyLand Artwork\\Scripts\\LoadingGame.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\SunnyLand Artwork\\Scripts\\LoadingGame.cs",
+              "RelativeToolTip": "Assets\\SunnyLand Artwork\\Scripts\\LoadingGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T02:43:00.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RuntimeUtils.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\Plugins\\FMOD\\src\\RuntimeUtils.cs",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\FMOD\\src\\RuntimeUtils.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\Plugins\\FMOD\\src\\RuntimeUtils.cs",
+              "RelativeToolTip": "Assets\\Plugins\\FMOD\\src\\RuntimeUtils.cs",
+              "ViewState": "AgIAAFkCAAAAAAAAAAAswGcCAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T05:33:23.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "playercontroller.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\Scripts\\player\\playercontroller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\player\\playercontroller.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\Scripts\\player\\playercontroller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\player\\playercontroller.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:00:09.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "boss.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\Scripts\\enemy\\boss.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\enemy\\boss.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\Scripts\\enemy\\boss.cs",
+              "RelativeToolTip": "Assets\\Scripts\\enemy\\boss.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T05:55:12.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\Scripts\\GameManager\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager\\GameManager.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\Scripts\\GameManager\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager\\GameManager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T03:17:19.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "menu.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\menu.cs",
+              "RelativeDocumentMoniker": "Assets\\menu.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\menu.cs",
+              "RelativeToolTip": "Assets\\menu.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T15:07:22.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MiniCamControl.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\Scripts\\Camera\\MiniCamControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\MiniCamControl.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\Scripts\\Camera\\MiniCamControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\MiniCamControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T15:22:51.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "background1.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\Scripts\\background\\background1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\background\\background1.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\Scripts\\background\\background1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\background\\background1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T16:32:30.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FixedJoystick.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\Joystick Pack\\Scripts\\Joysticks\\FixedJoystick.cs",
+              "RelativeDocumentMoniker": "Assets\\Joystick Pack\\Scripts\\Joysticks\\FixedJoystick.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\Joystick Pack\\Scripts\\Joysticks\\FixedJoystick.cs",
+              "RelativeToolTip": "Assets\\Joystick Pack\\Scripts\\Joysticks\\FixedJoystick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T02:45:59.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Diamond.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\Scripts\\Diamond\\Diamond.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Diamond\\Diamond.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\Scripts\\Diamond\\Diamond.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Diamond\\Diamond.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T03:00:09.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "sc.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\sc.cs",
+              "RelativeDocumentMoniker": "Assets\\sc.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\sc.cs",
+              "RelativeToolTip": "Assets\\sc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T13:44:35.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "heart.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\heart.cs",
+              "RelativeDocumentMoniker": "Assets\\heart.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\heart.cs",
+              "RelativeToolTip": "Assets\\heart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T05:48:04.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "cherry.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\Scripts\\cherry\\cherry.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\cherry\\cherry.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\Scripts\\cherry\\cherry.cs",
+              "RelativeToolTip": "Assets\\Scripts\\cherry\\cherry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T01:34:52.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frog.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\Scripts\\enemy\\frog.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\enemy\\frog.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\Scripts\\enemy\\frog.cs",
+              "RelativeToolTip": "Assets\\Scripts\\enemy\\frog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T02:35:22.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "opsum.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\Scripts\\enemy\\opsum.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\enemy\\opsum.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\Scripts\\enemy\\opsum.cs",
+              "RelativeToolTip": "Assets\\Scripts\\enemy\\opsum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T01:29:30.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "slimer.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\Scripts\\enemy\\slimer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\enemy\\slimer.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\Scripts\\enemy\\slimer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\enemy\\slimer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T07:43:23.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GameData.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\Scripts\\GameData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameData.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\Scripts\\GameData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameData.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T02:31:43.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "dog.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\Scripts\\enemy\\dog.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\enemy\\dog.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\Scripts\\enemy\\dog.cs",
+              "RelativeToolTip": "Assets\\Scripts\\enemy\\dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:43:20.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameData.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\GameData.cs",
+              "RelativeDocumentMoniker": "Assets\\GameData.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\GameData.cs",
+              "RelativeToolTip": "Assets\\GameData.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:36:02.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "batenemy.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\Scripts\\enemy\\batenemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\enemy\\batenemy.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\Scripts\\enemy\\batenemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\enemy\\batenemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T01:28:07.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HealthBarbackground.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\Scripts\\HealthBarbackground.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthBarbackground.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\Scripts\\HealthBarbackground.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthBarbackground.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T02:10:51.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "fix.cs",
+              "DocumentMoniker": "D:\\Project game\\My project (7)\\Assets\\fix.cs",
+              "RelativeDocumentMoniker": "Assets\\fix.cs",
+              "ToolTip": "D:\\Project game\\My project (7)\\Assets\\fix.cs",
+              "RelativeToolTip": "Assets\\fix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:11:40.292Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

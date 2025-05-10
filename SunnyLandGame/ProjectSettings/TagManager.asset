@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - grass
+  - Ladder
+  - background
+  - apple
+  - cherry
+  - fx
+  - diamond
+  - bat
+  - enemy
+  - flag1
+  - flag2
+  - boss
+  - bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ground
+  - Water
+  - UI
+  - Ladder
+  - player
+  - icon
+  - window
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: backchild3
+    uniqueID: 826100351
+    locked: 0
+  - name: backchild2
+    uniqueID: 2235235329
+    locked: 0
+  - name: backchild1
+    uniqueID: 2526831185
+    locked: 0
+  - name: backchild
+    uniqueID: 3474784575
+    locked: 0
+  - name: Background
+    uniqueID: 3600052755
+    locked: 0
+  - name: Entity
+    uniqueID: 3645090537
+    locked: 0
+  - name: Foreground
+    uniqueID: 1953551105
+    locked: 0
+  - name: Other
+    uniqueID: 783024883
+    locked: 0
+  - name: ground
+    uniqueID: 1531578715
+    locked: 0
+  - name: Ladder
+    uniqueID: 3376984679
+    locked: 0
+  - name: icon
+    uniqueID: 200994515
+    locked: 0
+  - name: enemy
+    uniqueID: 2495899065
+    locked: 0
+  - name: Player11
+    uniqueID: 4019650363
+    locked: 0
+  - name: Player
+    uniqueID: 3846507443
+    locked: 0

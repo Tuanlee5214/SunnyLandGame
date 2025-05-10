@@ -11,3 +11,5 @@
 #Game được làm trong lúc chưa tìm hiểu github dẫn đến sau khi xong mới push lên github, nên không hề có commit phản ánh quá trình làm việc.=)))👹👹👹
 
 #Link demo sản phẩm https://www.youtube.com/@LeAnhTuan-ib6ou
+
+#Link đến file apk cho bạn nào muốn chơi thử (chỉ với máy android thôi nhé) : https://drive.google.com/file/d/1w5ZwhfDAjG4016sXoVu4unjtKLX5PK3P/view

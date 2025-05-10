@@ -9,3 +9,5 @@
 #Game đòi hỏi sự khéo léo trong điều khiển giúp người chơi xả stress sau những giờ làm việc căng thẳng.🙆‍♀️🙆‍♀️
 
 #Game được làm trong lúc chưa tìm hiểu github dẫn đến sau khi xong mới push lên github, nên không hề có commit phản ánh quá trình làm việc.=)))👹👹👹
+
+#Link demo sản phẩm https://www.youtube.com/@LeAnhTuan-ib6ou
